@@ -8,6 +8,8 @@ The hard and software is based on the [D16](https://rtb4dcc.de/hardware/decoder/
 - 10 auxiliary output ports
 - single WS28xx connector (controlling up to 32 external neo pixels).
 
+``Note: this repo is currently under construction and will be completed soon. (Feb 20, 2026)``
+
 <details>
 <summary>See also</summary>
 
