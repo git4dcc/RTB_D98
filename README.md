@@ -37,7 +37,7 @@ The decoder has the following features,
 - **Railcom**
   - Channel 1/2
   - POM, xPOM
-  - DYN: Speed, QoS, Track-voltage, Motor-current, AUX-current, Temp, Distance travelled
+  - DYN: QoS, Track-voltage, AUX-current, Temp
 - double sided
 - Dimension: 13 x 9 mm
 - 7-20V track voltage
