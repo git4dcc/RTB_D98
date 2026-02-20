@@ -40,7 +40,7 @@ The decoder has the following features,
   - DYN: QoS, Track-voltage, AUX-current, Temp, East/West
 - double sided
 - Dimension: 13 x 9 mm
-- 7-20V track voltage
+- 5-20V track voltage
 - heartbeat LED
 - adjustable max AUX current (default 500mA)
 - over temp protection
