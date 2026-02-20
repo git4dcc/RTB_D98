@@ -44,9 +44,10 @@ The decoder has the following features,
 - heartbeat LED
 - adjustable max AUX current (default 500mA)
 - over temp protection
-- Function output: LV/LR/AUX1/AUX2 open drain
-- Function output: AUX3/AUX4/AUX5/AUX6/AUX7/AUX8 logic level (3.3V)
-- Function output: LV/LR/AUX1/AUX2/AUX3/AUX4 (dimmable, 1.4kHz)
+- Function output
+  - LV/LR/AUX1/AUX2 open drain
+  - AUX3/AUX4/AUX5/AUX6/AUX7/AUX8 logic level (5V)
+  - LV/LR/AUX1/AUX2/AUX3/AUX4 (dimmable, 1.4kHz)
 - WS28xx output: controls up to 32 WS28xx neo pixels
 - optional external buffer capacitor (max. 1500uF)
 - <10mA idle power consumption
