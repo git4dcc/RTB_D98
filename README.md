@@ -3,7 +3,7 @@
 [![Kicad_Libs](https://img.shields.io/badge/Kicad_Libs-29C7FF)](https:///../../../../git4dcc/RTB_SamacSys)
 [![Apache License 2.0](https://img.shields.io/badge/license-Apache%20License%202.0-lightgray)](https://www.apache.org/licenses/LICENSE-2.0)
 
-## This is a [OpenDcc](https://forum.opendcc.de) forum project
+## This is a [OpenDcc](https://forum.opendcc.de/viewtopic.php?t=11034) forum project
 The hard and software is based on the [D16](https://rtb4dcc.de/hardware/decoder/d16/) motor decoder. It implements a double-sided NEM-651 **function decoder** for use with DCC infrastructure. The hardware provides
 - 10 auxiliary output ports
 - single WS28xx connector (controlling up to 32 external neo pixels).
