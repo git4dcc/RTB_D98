@@ -20,7 +20,7 @@ Fork of the [D16](https://rtb4dcc.de/hardware/decoder/d16/). Implements a double
 
 </details>
 
-<img src="supplemental/images/D98_main.jpg" width=800>
+<img src="supplemental/images/D98_main.jpg" width=500>
 <br>
 
 The decoder has the following features,
