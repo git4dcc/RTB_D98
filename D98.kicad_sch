@@ -1,0 +1,148 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "a8d41490-499e-4a0c-9bc7-5951287860d2")
+	(paper "A4")
+	(title_block
+		(title "RTB D98-Function NEM651 Decoder")
+		(date "2026-02-20")
+		(rev "0")
+		(company "Frank Schumacher/Felix Schilberth")
+		(comment 1 "Funktions Decoder NEM651")
+		(comment 4 "Licensed under the Apache License, Version 2")
+	)
+	(lib_symbols)
+	(sheet
+		(at 78.74 82.55)
+		(size 44.45 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-00005b6c6b9d")
+		(property "Sheetname" "CPU"
+			(at 78.74 81.4701 0)
+			(effects
+				(font
+					(size 2.0066 2.0066)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "D98cpu.kicad_sch"
+			(at 78.74 102.4792 0)
+			(effects
+				(font
+					(size 2.0066 2.0066)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "D98"
+				(path "/a8d41490-499e-4a0c-9bc7-5951287860d2"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 142.24 82.55)
+		(size 44.45 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-00005b6d3404")
+		(property "Sheetname" "Railcom"
+			(at 142.24 81.4701 0)
+			(effects
+				(font
+					(size 2.0066 2.0066)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "D98rcm.kicad_sch"
+			(at 142.24 102.4792 0)
+			(effects
+				(font
+					(size 2.0066 2.0066)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "D98"
+				(path "/a8d41490-499e-4a0c-9bc7-5951287860d2"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 200.66 82.55)
+		(size 50.8 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-00005ca7768a")
+		(property "Sheetname" "Power"
+			(at 200.66 81.4701 0)
+			(effects
+				(font
+					(size 2.0066 2.0066)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "D98pwr.kicad_sch"
+			(at 200.66 102.4792 0)
+			(effects
+				(font
+					(size 2.0066 2.0066)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "D98"
+				(path "/a8d41490-499e-4a0c-9bc7-5951287860d2"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
