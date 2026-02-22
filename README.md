@@ -1,12 +1,12 @@
 # RTB_D98
-[![OpenDcc Forum Project](https://img.shields.io/badge/OpenDcc_Forum_Project-FF6699)](https://forum.opendcc.de)
+[![Forum Project](https://img.shields.io/badge/Forum_Project-FF6699)](https://forum.opendcc.de)
 [![Kicad_Libs](https://img.shields.io/badge/Kicad_Libs-29C7FF)](https:///../../../../git4dcc/RTB_SamacSys)
 [![Apache License 2.0](https://img.shields.io/badge/license-Apache%20License%202.0-lightgray)](https://www.apache.org/licenses/LICENSE-2.0)
 
-## This is a [OpenDcc](https://forum.opendcc.de/viewtopic.php?t=11034) forum project
+## This is a [opendcc](https://forum.opendcc.de/viewtopic.php?t=11034) forum project
 The hard and software is based on the [D16](https://rtb4dcc.de/hardware/decoder/d16/) motor decoder. It implements a double-sided NEM-651 **function decoder** for use with DCC infrastructure. The hardware provides
 - 10 auxiliary output ports
-- single WS28xx connector (controlling up to 32 external neo pixels).
+- up to 32 WS281x neo pixels
 
 ``Note: this repo is currently under construction and will be completed soon. (Feb 20, 2026)``
 
@@ -44,11 +44,11 @@ The decoder has the following features,
 - heartbeat LED
 - adjustable max AUX current (default 500mA)
 - over temp protection
-- Function output
+- **Function output**
   - LV/LR/AUX1/AUX2 open drain
   - AUX3/AUX4/AUX5/AUX6/AUX7/AUX8 logic level (5V)
   - LV/LR/AUX1/AUX2/AUX3/AUX4 (dimmable, 1.4kHz)
-- WS28xx output: controls up to 32 WS28xx neo pixels
+  - WS281x: up to 32 WS28xx neo pixels
 - optional external buffer capacitor (max. 1500uF)
 - <10mA idle power consumption
 - Firmware update over main tracks via DCC-R protocol
